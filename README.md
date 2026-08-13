@@ -1,7 +1,7 @@
 ### 🎃: About Me :
 
 <p align="center">
-  <img src= "https://kommodo.ai/i/qN45iAfVxBcsCBYyqt6M" />
+  <img src= "https://i.ibb.co/Q7V658rF/straw-hat-luffy-one-3840x2160-22500.jpg" />
 </p>
 
 - 👋 Hi, I’m @nimsara
