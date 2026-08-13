@@ -1,7 +1,7 @@
 ### 🎃: About Me :
 
 <p align="center">
-  <img src="[https://i.imgur.com/grqkPgn.jpeg](https://cdn.phototourl.com/free/2026-08-13-caafaca0-caf5-4db0-a18c-0550d5e70446.jpg)" />
+  <img src="https://i.imgur.com/grqkPgn.jpeg](https://cdn.phototourl.com/free/2026-08-13-caafaca0-caf5-4db0-a18c-0550d5e70446.jpg" />
 </p>
 
 - 👋 Hi, I’m @nimsara
